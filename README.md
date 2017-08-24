@@ -9,3 +9,8 @@ Go on gmail.com and create your email account with the email address As soon as 
 #### 2nd step: Apple account
 Each time you’re gonna open an Apple App on your computer you will need an Apple account.
 Go on the App Store, signup for a new account with your Foodworks email address.
+
+
+---
+Starting now, you’re gonna need to download severals software to be all set:<br>
+(For some, you’re gonna need an invitation)
