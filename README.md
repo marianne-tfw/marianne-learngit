@@ -17,7 +17,6 @@ Go on the App Store, signup for a new account with your Foodworks email address.
 [TECHNICAL](#technical) 
 [GITHUB](#github)  
 
----
 Starting now, you’re gonna need to download severals software to be all set:<br>
 (For some, you’re gonna need an invitation)
 
@@ -67,4 +66,35 @@ You can also install Google Drive directly on you computer.
 Go on https://www.sublimetext.com/3, download Sublime Text 3, then install it following the instructions.
 When it’s installed, open it and run the Package Control.
 Install Emmet if needed. All the informations are [here](https://github.com/sergeche/emmet-sublime#readme).
+
+
+## GITHUB
+You will have to create your own account on GitHub but you’re gonna need invitation to join FoodworksTeam’s repositories 
+- Create your account https://github.com 
+- HomemadeAPI https://github.com/FoodworksTeam/homemadeAPI
+- React https://github.com/FoodworksTeam/react
+
+Here is a quick tutorial to learn how to use GitHub if you’re a newbie https://try.github.io/
+
+#### SETUP
+1. Go to your profile > hit the profile menu and go to Settings > then SSH and GPG Keys > Hit the New SSH Key button > Under the new SSH keys section, click on generating SSH Keys > Hit Generating a new SSH key and adding it to the ssh-agent > then, follow all the instruction on the page […]
+2. Xcode and command line tools […]
+3. Add the Alias for Sublime […]  
+4. Go to the React repository https://github.com/FoodworksTeam/react and clone it on your machine
+5. Go to the HomemadeAPI repository https://github.com/FoodworksTeam/homemadeAPI and clone it on your machine
+6. Go to your profile > hit the profile menu and go to Settings > then SSH and GPG Keys > Hit the generating SSH Keys button > Hit Adding a new SSH key to your GitHub account > then, follow all the instruction on the page [...]
+7. Install Homebrew https://brew.sh/ > go on your terminal and run npm install for both repository > then go into the homemadeApi repository and run npm install .g nodemon in the HomemadeAPI repository. […] 
+8. Ask your supervisor for the secret.js file > copy it > go to the homemadeAPIi folder > Config > past it […]
+
+
+
+
+
+
+
+
+
+
+
+
 
