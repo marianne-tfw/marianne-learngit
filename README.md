@@ -1,7 +1,6 @@
 # WELCOME ONBOARD!
 
-First thing first, you’re gonna need a **computer** and an **email address**…
-Got them? All right, let’s get started!
+First thing first, you’re gonna need a **computer** and an **email address**…<br>Got them? All right, let’s get started!
 
 
 #### Step one: Gmail account
