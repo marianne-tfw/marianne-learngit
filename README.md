@@ -14,8 +14,8 @@ Go on the App Store, signup for a new account with your Foodworks email address.
 ### Table of Contents  
 [TEAM](#team)  
 [DESIGN](#design)  
-[TECHNICAL](#technical) 
-[GITHUB](#github)  
+[TECHNICAL](#technical)  
+[GITHUB](#github) 
 
 Starting now, you’re gonna need to download severals software to be all set:<br>
 (For some, you’re gonna need an invitation)
@@ -74,7 +74,7 @@ You will have to create your own account on GitHub but you’re gonna need invit
 - HomemadeAPI https://github.com/FoodworksTeam/homemadeAPI
 - React https://github.com/FoodworksTeam/react
 
-Here is a quick tutorial to learn how to use GitHub if you’re a newbie https://try.github.io/
+> :notebook: Here is a quick tutorial to learn how to use GitHub if you’re a newbie https://try.github.io/
 
 #### SETUP
 1. Go to your profile > hit the profile menu and go to Settings > then SSH and GPG Keys > Hit the New SSH Key button > Under the new SSH keys section, click on generating SSH Keys > Hit Generating a new SSH key and adding it to the ssh-agent > then, follow all the instruction on the page […]
