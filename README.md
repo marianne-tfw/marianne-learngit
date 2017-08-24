@@ -22,7 +22,7 @@ Starting now, you’re gonna need to download severals software to be all set:<b
 (For some, you’re gonna need an invitation)
 
 
-### TEAM
+## TEAM
 #### The Foodworks platform *(invitation required)*:
 Someone from the team will create an account for you, with a password. When it’s done, he/she’s gonna send you the link and your password. Login with your Foodworks email address, then they’re gonna ask you to change your password.
 
@@ -40,11 +40,11 @@ Create your account through the invitation you must received by email.<br>
 You’re gonna need to fill some informations on you as your bank account, so make sure to have all these informations with you.
 
 #### Spectable:
-Window control with simple and customizable [keyboard shortcuts](https://github.com/eczarny/spectacle#keyboard-shortcuts)<br>
+Window control with simple and customizable [keyboard shortcuts](https://github.com/eczarny/spectacle#keyboard-shortcuts).<br>
 https://www.spectacleapp.com/
 
 
-### DESIGN
+## DESIGN
 #### Adobe (invitation required):
 Create your account through the invitation you must received by email. Then, download the Adobe Creative Suite, install the package on your computer following the instructions. When it’s done, you must see on the menu barre on the top of your screen the logo of the Adobe Creative Suite, click on it, login one more time and download Illustrator, Photoshop, Acrobat and Extension Manager. 
 
@@ -62,9 +62,9 @@ Ask for the Creative Asset Library.<br>
 You can also install Google Drive directly on you computer.
 
 
-### TECHNICAL
+## TECHNICAL
 #### Sublime: 
 Go on https://www.sublimetext.com/3, download Sublime Text 3, then install it following the instructions.
 When it’s installed, open it and run the Package Control.
-Install Emmet if needed. All the informations are [here](https://github.com/sergeche/emmet-sublime#readme)
+Install Emmet if needed. All the informations are [here](https://github.com/sergeche/emmet-sublime#readme).
 
