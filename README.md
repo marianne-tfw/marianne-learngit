@@ -83,7 +83,7 @@ You will have to create your own account on GitHub but you’re gonna need invit
 4. Go to the React repository https://github.com/FoodworksTeam/react and clone it on your machine
 5. Go to the HomemadeAPI repository https://github.com/FoodworksTeam/homemadeAPI and clone it on your machine
 6. Go to your profile > hit the profile menu and go to Settings > then SSH and GPG Keys > Hit the generating SSH Keys button > Hit Adding a new SSH key to your GitHub account > then, follow all the instruction on the page [...]
-7. Install Homebrew https://brew.sh/ > go on your terminal and run npm install for both repository > then go into the homemadeApi repository and run `npm install .g nodemon` in the HomemadeAPI repository. […] 
+7. Install Homebrew https://brew.sh/ > go on your terminal and run ```npm install``` for both repository > then go into the homemadeApi repository and run `npm install .g nodemon` in the HomemadeAPI repository. […] 
 8. Ask your supervisor for the secret.js file > copy it > go to the homemadeAPIi folder > Config > past it […]
 
 
