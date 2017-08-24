@@ -11,7 +11,7 @@ Go on gmail.com and create your email account with the email address As soon as 
 Each time you’re gonna open an Apple App on your computer you will need an Apple account.
 Go on the App Store, signup for a new account with your Foodworks email address.
 
-##### Table of Contents  
+### Table of Contents  
 [TEAM](#team)  
 [DESIGN](#design)  
 [TECHNICAL](#technical) 
@@ -62,4 +62,9 @@ Ask for the Creative Asset Library.<br>
 You can also install Google Drive directly on you computer.
 
 
+### TECHNICAL
+#### Sublime: 
+Go on https://www.sublimetext.com/3, download Sublime Text 3, then install it following the instructions.
+When it’s installed, open it and run the Package Control.
+Install Emmet if needed. All the informations are [here](https://github.com/sergeche/emmet-sublime#readme)
 
